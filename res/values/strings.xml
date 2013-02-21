@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">memory-eater</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="allocate_512">Allocate 512 KB</string>
+    <string name="allocate_1024">Allocate 1 MB</string>
+    <string name="allocate_2048">Allocate 2 MB</string>
+    <string name="allocate_4096">Allocate 4 MB</string>
+    <string name="clear">Clear</string>
+
+</resources>
